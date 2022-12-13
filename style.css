@@ -18,3 +18,7 @@ h2{
     border-radius: 10px;
     padding: 20px;
 }
+
+h3 {
+    border: 5px solid red;
+}
